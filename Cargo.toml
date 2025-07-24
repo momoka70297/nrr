@@ -3,3 +3,4 @@ name = "nrr"
 version = "0.1.0"
 edition = "2021"
 description = "Minimal, blazing fast npm scripts runner"
+# clarify the control flow
